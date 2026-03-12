@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-Research%20Use-green)]()
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12%2B-orange)](https://pytorch.org/)
-[![Funding](https://img.shields.io/badge/Funded%20by-MeitY%20BHASHINI-purple)]()
+[![Funding](https://img.shields.io/badge/Funded%20by-MeitY%20BHASHINI-purple)](https://bhashini.gov.in/)
 
 > **Official repository** for the paper:  
 > *"DAU-KDAH Dysarthric Multi-Lingual and Multimodal Speech Corpora for Indic Languages"*  
